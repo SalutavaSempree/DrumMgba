@@ -1,0 +1,4 @@
+#
+#4bpp, not compressed, no palette.
+#
+-gB4 -p!

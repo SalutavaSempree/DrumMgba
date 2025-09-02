@@ -1,0 +1,5 @@
+#
+# Titlescrren Palette, without graphics
+# I do not know why it works with a full image but does not with a small 1x16 palette. Maybe I will fix it later, but I do not know why it happens.
+#
+-g! -p
