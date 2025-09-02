@@ -1,0 +1,4 @@
+#
+#32x32, 4bpp, SBB-layout, not compressed, no palette.
+#
+-gt -gB4 -mR4 -mLs -p!
