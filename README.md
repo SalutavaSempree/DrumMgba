@@ -8,6 +8,8 @@ I wrote this application in about one month and a half, I expect issues to arise
 Saving and loading does not work on real hardware, I plan to fix this in the near future if I can.
 
 ## Thanks
-This project is based on the [libtonc template](https://github.com/gbadev-org/libtonc-template), instruction there on how to compile it.
+This project is based on the [libtonc template](https://github.com/gbadev-org/libtonc-template), instruction there on how to buildit.
+
 Thanks to the all the great resources on [gbadev](https://gbadev.net) and all of the people that wrote them for, in turn, making this project possible.
+
 Thanks to credit1 and credit2 for the samples used in the project.
